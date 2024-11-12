@@ -1,0 +1,24 @@
+{
+    "name": "Zarate Ramiro",
+    "title": "Software Developer",
+    "about": "soy un desarrollador de software amante de la tecnologia y con experiencia en desarrollo web   ",
+    "projects": [
+      {
+        "title": "Project 1",
+        "description": "A web application for task management.",
+        "link": "https://github.com/ZarateRamiro/project1"
+      },
+      {
+        "title": "Project 2",
+        "description": "A mobile app for fitness tracking.",
+        "link": "https://github.com/ZarateRamiro/project2"
+      }
+    ],
+    "skills": ["Angular", "JavaScript", "TypeScript", "HTML", "CSS"],
+    "contact": {
+      "email": "johndoe@example.com",
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "github": "https://github.com/johndoe"
+    }
+  }
+  
